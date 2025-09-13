@@ -59,10 +59,10 @@ OPENAI_API_KEY=your_openai_api_key
 
 ```bash
 # desenvolvimento
-npm run start:dev
+npm start
 
 # produção
-npm run start:prod
+npm start
 ```
 
 O servidor ficará disponível em `http://localhost:3000`.
@@ -99,22 +99,7 @@ Acesse a documentação interativa em:
 http://localhost:3000/api/openAI
 ```
 
----
-
-## Testes
-
-```bash
-# testes unitários
-npm run test
-
-# testes e2e
-npm run test:e2e
-
-# cobertura de testes
-npm run test:cov
-```
-
----
+-
 
 ## Suporte e Recursos
 
